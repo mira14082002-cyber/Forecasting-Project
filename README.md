@@ -1,2 +1,4 @@
 # Forecasting-Project
-This project combines forecasting and text analytics to support business strategy. The first part focuses on predicting Personal Consumption Expenditures (PCE) using time series models. The second part analyzes hotel reviews with text mining and topic modeling to uncover key drivers of customer experience.
+“This project was originally created as part of my coursework at the University of Leeds.
+The content here reflects my own original work.
+Assessment briefs and university-owned materials are not included.”
